@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**TheBonelessAlien/TheBonelessAlien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kyle Mukundi. I am a 7th grade boy that lives in Ontario that does some stupid coding projects (such as Dominos.NET, lmao.)
+[I am working on a multiplayer FPS called RETROSPECTIV in Unity using C#, with low-poly graphics. ](https://www.retrospectivgame.com)
 
-Here are some ideas to get you started:
+I am fluent in C# and Lua.
+I know some Java, and some JavaScript.
+I am learning C++, and Python.
+add me rn: leninent;#6969 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I ***hate*** pineapple pizza.
+
+I will add more here when I stop being lazy (never).
+
+
+
+
+# Peace!
