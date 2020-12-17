@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Kyle Mukundi. I am a 7th grade boy that lives in Ontario that does some stupid coding projects (such as Dominos.NET, lmao.)
+My name is Kyle Mukundi. I am a 7th grade boy that lives in Ontario that does some stupid coding projects (such as [Dominos.NET, lmao.](https://www.github.com/TheBonelessAlien/Dominos.NET))
 [I am working on a multiplayer FPS called RETROSPECTIV in Unity using C#, with low-poly graphics. ](https://www.retrospectivgame.com)
 
 I am fluent in C# and Lua.
