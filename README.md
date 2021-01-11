@@ -10,6 +10,8 @@ add me rn: leninent;#6969
 
 I ***hate*** pineapple pizza.
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=TheBonelessAlien)](https://github.com/anuraghazra/github-readme-stats)
+
 I will add more here when I stop being lazy (never).
 
 
