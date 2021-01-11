@@ -6,12 +6,14 @@ My name is Kyle Mukundi. I am a 7th grade boy that lives in Ontario that does so
 I am fluent in C# and Lua.
 I know some Java, and some JavaScript.
 I am learning C++, and Python.
-add me rn: leninent;#6969 
+add me rn: leninent;#1010 
 
-I ***hate*** pineapple pizza.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![my github stats](https://github-readme-stats.vercel.app/api?username=TheBonelessAlien)](https://github.com/anuraghazra/github-readme-stats)
 
+
+I ***hate*** pineapple pizza.
 I will add more here when I stop being lazy (never).
 
 
